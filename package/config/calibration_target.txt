@@ -1,0 +1,14 @@
+CMT01// Boreal Spruce forests - (1 vegetation over 1 soil column) (BGC) targetted states and fluxes// Plant BGC targetted variables468.74           // ingpp: GPP without N limitation (gC/m2/year)
+200.39           // innpp: NPP without N limitation (gC/m2/year)
+133.59           // npp: NPP with N limitation (gC/m2/year)
+0.67             // nuptake  (gN/m2/year)
+121.92           // vegcl: (gC/m2)
+1519.45          // vegcw: (gC/m2)
+410.34           // vegcr: (gC/m2)
+1.05             // vegnl: (gN/m2)
+2.74             // vegnw: (gN/m2)
+3.52             // vegnr: (gN/m2)//Soil organic matters
+178               // dmossc: (gC/m2)
+1783              // shlwc: (gC/m2)5021              // deepc: (gC/m2)
+9000              // minec: (gC/m2)363               // soln: (gC/m2)
+0.76              // avln: (gC/m2)

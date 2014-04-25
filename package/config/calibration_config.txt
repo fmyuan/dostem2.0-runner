@@ -1,0 +1,7 @@
+DOS-TEM2-Test                                     /* TEM running case */
+config/                                           /* directory of initial states and parameter files  */
+Test_DOSTEM2/output/                     /* directory of outputs */
+Test_DOSTEM2/dataregion/                 /* directory of regional-level inputs */
+Test_DOSTEM2/datagrid/                   /* directory of grided data inputs */
+Test_DOSTEM2/datacht/                    /* directory of cohort inputs */
+1                                                 /* cohort ID */

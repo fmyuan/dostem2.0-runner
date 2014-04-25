@@ -1,7 +1,0 @@
-DOSTEM2-Test                             /* TEM running case
-config/                                  /* directory of initial states and parameter files (9 files - cmt_calpar.txt, cmt_dimension.txt, cmt_env.txt, , cmt_bgc.txt, cmt_firepar.txt)
-C:/TEM/Simulations/DOSTEM2_calibration/Site_UpTundra/output/                                        /* directory of outputs
-C:/TEM/Simulations/DOSTEM2_calibration/Site_UpTundra/dataregion/                                    /* directory of regional-level inputs
-C:/TEM/Simulations/DOSTEM2_calibration/Site_UpTundra/datagrid/                                      /* directory of grided data inputs
-C:/TEM/Simulations/DOSTEM2_calibration/Site_UpTundra/datacht/                                       /* directory of cohort inputs
-1                                                 /* cohort ID */
